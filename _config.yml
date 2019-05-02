@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Wrexthor"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/wrexthor.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A lone nerd in an ever evolving world."
   #location         : "Sweden"
   #email            : wrexthor@protonmail.com
