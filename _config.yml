@@ -109,8 +109,8 @@ author:
   name             : "Wrexthor"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A lone nerd in an ever evolving world."
-  location         : "Sweden"
-  email            : wrexthor@protonmail.com
+  #location         : "Sweden"
+  #email            : wrexthor@protonmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
